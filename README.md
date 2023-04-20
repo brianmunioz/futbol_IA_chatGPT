@@ -1,1 +1,12 @@
-Este proyecto esta hecho con react y node
+
+# Fútbol IA
+
+Podés buscar tus dudas sobre futbol y la IA de openAI te responderá
+
+
+
+## Variables de entorno
+
+Esta variable de entorno es importante para poder consumir la api de openAI para utilizar chatGPT
+
+`OPENAI_API_KEY`
