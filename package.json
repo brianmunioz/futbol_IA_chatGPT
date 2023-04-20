@@ -4,7 +4,7 @@
   "description": "Es una app que te responde preguntas sobre futbol utilizando inteligencia artificial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Brian Muñoz",
   "license": "MIT",
