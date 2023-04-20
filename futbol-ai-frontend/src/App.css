@@ -1,0 +1,55 @@
+
+.card {
+  background: #00000099;
+  border-radius: 20px;
+  width: 85%;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+html{
+  background: url(/public/img/fondo.jpg) center;
+  background-size: cover;
+  height: 120vh;
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+  padding: 7px;
+  background: #00000040;
+  box-shadow: 1px 0px 5px black;
+}
+.header a{
+display: block;  
+background:#02020291 ;
+padding: 5px;
+border-radius: 10px;
+text-decoration: none;
+color: white;
+font-weight: bold;
+}
+.header a:hover{
+  color: white;
+  background: #050505a8;
+
+}
+.contenedor{
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+.wrap{
+  overflow-wrap: anywhere;
+}
+input{
+  width: 70%;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  margin: 0px 10px 10px 0px;
+}
+
+
+

@@ -1,0 +1,18 @@
+{
+  "name": "futbol-ai",
+  "version": "1.0.0",
+  "description": "Es una app que te responde preguntas sobre futbol utilizando inteligencia artificial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Muñoz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  }
+}
